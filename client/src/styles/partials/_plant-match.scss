@@ -1,0 +1,78 @@
+@import "mixins";
+@import "variables";
+input[type="radio"] {
+  display: none;
+  &:not(:disabled) ~ label {
+    cursor: pointer;
+  }
+}
+label {
+  display: flex;
+  justify-content: center;
+  background: white;
+  border: 2px solid grey;
+  border-radius: 20px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  position: relative;
+}
+input[type="radio"]:checked + label {
+  background: #669f82;
+  color: #f5f5f5;
+  box-shadow: 0px 0px 20px grey;
+}
+.plant-match {
+  width: 100%;
+  &__options {
+    &--container {
+      padding: 0.2rem;
+      @include tablet {
+        max-width: 60rem;
+        margin-left: 20rem;
+        margin-right: 20rem;
+        text-align: center;
+        margin: 0 auto;
+      }
+    }
+    &--text {
+      display: flex;
+      max-width: 50rem;
+      margin: 0 auto;
+      flex-direction: column;
+      align-items: center;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+    }
+    &--header {
+      text-transform: capitalize;
+    }
+  }
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+.button {
+  font-family: $body-font;
+  font-size: 2rem;
+  color: white;
+  width: 20rem;
+  margin: 0 auto;
+  height: 4rem;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 1.5rem;
+  background: #669f82;
+  color: #f5f5f5;
+  box-shadow: 0px 0px 20px grey;
+  border: 2px solid grey;
+  margin-top: 4rem;
+  outline: none;
+}
+.submit-container {
+  display: flex;
+  justify-content: center;
+  //   padding-top: 2rem;
+  padding-bottom: 2rem;
+}

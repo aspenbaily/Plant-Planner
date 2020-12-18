@@ -1,0 +1,33 @@
+@import "./partials/plant-care";
+@import "./partials/plant-match";
+@import "./partials/footer";
+@import "./partials/header";
+@import "./partials/fonts/font";
+@import "./partials/hero";
+@import "./partials/variables";
+@import "./partials/mixins";
+@import "./partials/landing";
+@import "./partials/plant-list";
+@import "./partials/about";
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: $body-font;
+  font-size: 1.5rem;
+  color: #4f5a55;
+  background-color: #f5f5f5;
+}
+.content {
+  min-height: calc(100vh - 7rem);
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  color: rgba(79, 90, 85, 0.5);
+}

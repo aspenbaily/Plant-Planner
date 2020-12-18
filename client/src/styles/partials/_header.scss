@@ -1,0 +1,31 @@
+@import "variables";
+@import "mixins";
+.header {
+  font-family: $nav-font;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 3rem;
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  padding-bottom: 0;
+
+  &__items {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-self: center;
+    margin: 0 auto;
+    flex-direction: column;
+    list-style-type: none;
+    @include tablet {
+      width: 100%;
+      justify-content: space-evenly;
+      text-align: center;
+      flex-direction: row;
+
+      //   flex-wrap: wrap;
+    }
+  }
+}

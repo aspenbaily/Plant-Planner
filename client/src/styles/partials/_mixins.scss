@@ -1,0 +1,16 @@
+@import "variables";
+@mixin desktop {
+  @media screen and (min-width: $desktop-breakpoint-min) {
+    @content;
+  }
+}
+@mixin tablet {
+  @media screen and (min-width: $tablet-breakpoint-min) {
+    @content;
+  }
+}
+@mixin mobile {
+  @media screen and (min-width: $mobile-breakpoint-min) {
+    @content;
+  }
+}
