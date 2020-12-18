@@ -1,4 +1,11 @@
-@import "variables";
+// @import "variables";
+.about {
+  &__header {
+    padding: 2rem;
+    font-weight: normal;
+    font-size: 1.5rem;
+  }
+}
 .form-control {
   display: flex;
   justify-content: center;

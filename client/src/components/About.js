@@ -38,10 +38,9 @@ function About() {
   return (
     <div className="about">
       <div className="banner"></div>
-      {/* <div className="container"> */}
-      {/* <div className="row"> */}
-      {/* <div className="col-md-8 mx-auto"> */}
-      {/* <div className="contact-form"> */}
+      <h3 className="about__header">
+        Have some feedback? Have a plant you'd like to see here? Let us know!
+      </h3>
       <form onSubmit={handleFormSubmit} className="contact-form">
         <div className="contact-form__name">
           <div className="form-group">
@@ -86,10 +85,6 @@ function About() {
         </button>
       </form>
     </div>
-    // </div>
-    // </div>
-    // </div>
-    // </div>
   );
 }
 export default About;

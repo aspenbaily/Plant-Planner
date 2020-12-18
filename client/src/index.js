@@ -1,6 +1,6 @@
 import ReactDOM from "react-dom";
 import React from "react";
-import "./styles/main.scss";
+import "./styles/main.css";
 import Header from "./components/Header";
 import App from "./App";
 import Footer from "./components/Footer";
