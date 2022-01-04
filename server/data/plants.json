@@ -1,0 +1,201 @@
+[
+  {
+    "id": "b6dd786d08d144c587ed0f13c123093f",
+    "name": "Aloe Vera",
+    "latinname": "Aloe vera",
+    "lightdirection": "direct",
+    "lightneeds": "bright",
+    "waterneeds": "infrequent",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1601879076997-b907463bd421?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "92e5fb1cb06248ff99a4992f9655ff86",
+    "name": "Monstera",
+    "latinname": "Monstera deliciosa",
+    "lightdirection": "indirect",
+    "lightneeds": "lowlight",
+    "waterneeds": "occasional",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1564510714597-3a775f297ef5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "d4f5064d902f429bbd7e94fbb4505752",
+    "name": "Moth Orchid",
+    "latinname": "Phaelenopsis orchidaceae ",
+    "lightdirection": "indirect",
+    "lightneeds": "bright",
+    "waterneeds": "occasional",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1524598171353-ce84a157ed05?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "a055ac0728a549dc8b8c32685a6fa1f5",
+    "name": "ZZ Plant",
+    "latinname": "Zamioculcas zamiifolia",
+    "lightdirection": "direct",
+    "lightneeds": "moderate",
+    "waterneeds": "occasional",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1606256419855-d72ce8675863?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "fbd0164614f74f11bd4458943a7ea2d6",
+    "name": "Jade",
+    "latinname": "Crassula ovata",
+    "lightdirection": "indirect",
+    "lightneeds": "bright",
+    "waterneeds": "infrequent",
+    "easeofcare": "moderate",
+    "image": "https://images.unsplash.com/photo-1573714000387-71694087c82e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+
+  {
+    "id": "62d38000137e498296350a34aae8c3ba",
+    "name": "Air Plant",
+    "latinname": "Tillandsia",
+    "lightdirection": "direct",
+    "lightneeds": "bright",
+    "waterneeds": "occasional",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1554158504-7df636f45dd5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2125&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "02d50174b9f4460fb4554e1483cab490",
+    "name": "Spider Plant",
+    "latinname": "Chlorophytum comosum",
+    "lightdirection": "indirect",
+    "lightneeds": "bright",
+    "waterneeds": "occasional",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1572688484438-313a6e50c333?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "3ca881615fda41f5a74a339ba83e1732",
+    "name": "Snake Plant",
+    "latinname": "Sansevieria trifasciata",
+    "lightdirection": "indirect",
+    "lightneeds": "low",
+    "waterneeds": "infrequent",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1599009944997-3544a939813c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "23dd9c90163a4cf38f35ac10041c4fe7",
+    "name": "String of Pearls Succulent",
+    "latinname": "Senecio rowleyanus",
+    "lightdirection": "indirect",
+    "lightneeds": "bright",
+    "waterneeds": "infrequent",
+    "easeofcare": "advanced",
+    "image": "https://images.unsplash.com/photo-1536846826492-c51b3984bc96?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "94cba7db878f42c6ab7c03d557f0bada",
+    "name": "Peace Lily",
+    "latinname": "Spathiphyllum",
+    "lightdirection": "direct",
+    "lightneeds": "low",
+    "waterneeds": "frequent",
+    "easeofcare": "moderate",
+    "image": "https://images.unsplash.com/photo-1593691509543-c55fb32d8de5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "826e913a51694661a4efbf8444e2f3df",
+    "name": "Pothos",
+    "latinname": "Epipremnum aureum",
+    "lightdirection": "indirect",
+    "lightneeds": "low",
+    "waterneeds": "occasional",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1598880940080-ff9a29891b85?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "3f568d0551ae44f39753611669cfb3cd",
+    "name": "Bird’s Nest Fern",
+    "latinname": "Asplenium nidus",
+    "lightdirection": "indirect",
+    "lightneeds": "low",
+    "waterneeds": "frequent",
+    "easeofcare": "moderate",
+    "image": "https://images.unsplash.com/photo-1603264794427-300d0340e634?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "cd34f3889caa4fceb333f09a049f0ffe",
+    "name": "Areca Palm",
+    "latinname": "Dypsis lutescens",
+    "lightdirection": "indirect",
+    "lightneeds": "bright",
+    "waterneeds": "occasional",
+    "easeofcare": "moderate",
+    "image": "https://images.unsplash.com/photo-1598531403144-43fdb36c9ae8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=700&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "bacca5f93b6a4951b8bee7e4667eecc8",
+    "name": "Barrel Cactus",
+    "latinname": "Echinocactus grusonii",
+    "lightdirection": "direct",
+    "lightneeds": "bright",
+    "waterneeds": "infrequent",
+    "easeofcare": "moderate",
+    "image": "https://images.unsplash.com/photo-1459411552884-841db9b3cc2a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=709&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "53331b4d000b434f8059ab61fbabdcc4",
+    "name": "Fiddle Leaf Fig",
+    "latinname": "Ficus lyrata",
+    "lightdirection": "indirect",
+    "lightneeds": "bright",
+    "waterneeds": "occasional",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1545239705-1564e58b9e4a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "5835e37b5bac4b2eb722ed79d3ab0611",
+    "name": "African Violet",
+    "latinname": "Saintpaulia",
+    "lightdirection": "indirect",
+    "lightneeds": "low",
+    "waterneeds": "frequent",
+    "easeofcare": "moderate",
+    "image": "https://images.unsplash.com/photo-1595609169861-8eedf5d26662?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "24464051b2e74bf181b1f1cb410cd489",
+    "name": "Burgundy Rubber Tree",
+    "latinname": "Ficus elastica",
+    "lightdirection": "indirect",
+    "lightneeds": "bright",
+    "waterneeds": "frequent",
+    "easeofcare": "moderate",
+    "image": "https://images.unsplash.com/photo-1552326450-abcda8e9fb3c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  },
+  {
+    "id": "def2be51d3e44156a3f2ec15218ee95f",
+    "name": "Paddle Plant Succulent",
+    "latinname": "Kalanchoe thyrsiflora",
+    "lightdirection": "direct",
+    "lightneeds": "bright",
+    "waterneeds": "infrequent",
+    "easeofcare": "easy",
+    "image": "https://images.unsplash.com/photo-1483794344563-d27a8d18014e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
+    "careinstructions": "A beautiful, popular and low maintenance succulent. It's best to leave this plant alone for the most part, as overwatering is typically more damaging than underwatering. Requires cactusspecific soil blends. Container size is unimporant.  The small tap root grows well in large or small containers. Fertilizer or plant food is rarely necessary for an Aloe Vera to thrive. Aloe, when healthy, does tend to produce lots of new leaves.  It can be necessary to trim off the unhealthy or dead leaves. To do this, use a sterilized knife and carefully cut the base of the leaf, paying special attention to not damage healthy leaves."
+  }
+]
